@@ -1,6 +1,6 @@
 # xetusoss/archiva
 
-An Apache Archiva image for simple standalone deployments.
+An Apache Archiva image for simple standalone deployments. Based on Alpine Linux.
 
 ---
 
